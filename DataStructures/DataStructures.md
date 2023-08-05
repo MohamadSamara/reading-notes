@@ -1,6 +1,9 @@
 # Why Data Structure Selection Matters in Software Development
 
-    Data structures are fundamental building blocks in software development and computer science. They provide the foundation for organizing and managing data efficiently, directly influencing the performance and effectiveness of algorithms and programs. Selecting the appropriate data structure is crucial to optimize memory usage, reduce execution time, and ensure code scalability. By understanding the operations required by a specific problem and evaluating the trade-offs of different data structures, developers can make informed decisions to build robust and high-performing solutions.
+    Data structures are fundamental building blocks in software development and computer science.
+    They provide the foundation for organizing and managing data efficiently, directly influencing the performance and effectiveness of algorithms and programs.
+    Selecting the appropriate data structure is crucial to optimize memory usage, reduce execution time, and ensure code scalability.
+    By understanding the operations required by a specific problem and evaluating the trade-offs of different data structures, developers can make informed decisions to build robust and high-performing solutions.
 
 ## What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
