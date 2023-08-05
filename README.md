@@ -8,7 +8,6 @@
 
 ## Code 401 - Advanced Software Development
 
-| class   | title   |
-| :-----: | :---:   |
-| one     |    1    |
-| two     |    1    |
+|           class             |           title           |
+|        :-----:              |            :---:          |
+|           one               |              1            |
