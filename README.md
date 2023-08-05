@@ -1,4 +1,4 @@
-[Contribution guidelines for this project]([docs/CONTRIBUTING.md](https://mohamadsamara.github.io/reading-notes/))
+[Reading notes Link]([docs/CONTRIBUTING.md](https://mohamadsamara.github.io/reading-notes/))
 # Reading Notes
 
 This website contains my reading notes for various software development courses.
