@@ -9,5 +9,7 @@
 ## Code 401 - Advanced Software Development
 
 |           class                |             title           |
-|        :-----:                 |            :---:          |
-| Data Structures and Algorithms |              1            |
+|          :-----:               |             :---:           |
+| Data Structures and Algorithms | [Data Structures](DataStructures/DataStructures.md) |
+|             SQL                | [SQL](./SQL/Sql.md) |
+|           Terminal             |  [Terminal](./Terminal/Terminal.md)  |
