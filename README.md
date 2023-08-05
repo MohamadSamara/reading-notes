@@ -1,4 +1,4 @@
-## [Reading notes](https://mohamadsamara.github.io/reading-notes/)
+## (https://mohamadsamara.github.io/reading-notes/)
 
 ## Code 102 - Intro to Software Development
 
