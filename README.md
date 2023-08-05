@@ -8,6 +8,6 @@
 
 ## Code 401 - Advanced Software Development
 
-|           class             |           title           |
-|        :-----:              |            :---:          |
-|           one               |              1            |
+|           class                |             title           |
+|        :-----:                 |            :---:          |
+| Data Structures and Algorithms |              1            |
