@@ -1,8 +1,6 @@
 [Reading notes Link](https://mohamadsamara.github.io/reading-notes/)
 # Reading Notes
 
-This website contains my reading notes for various software development courses.
-
 ## Code 102 - Intro to Software Development
 
 
