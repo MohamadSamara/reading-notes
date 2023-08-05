@@ -11,7 +11,7 @@
 
 ## Code 401 - Advanced Software Development
 
-
+---
 
 ## Summary 1: Relational Databases and SQL
 
