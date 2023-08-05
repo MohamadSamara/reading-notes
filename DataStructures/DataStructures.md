@@ -23,7 +23,7 @@ By making an informed choice, we can optimize the efficiency and effectiveness o
 
 3. **timeout** : Finally, you could use a timeout. A timeout is a period of time after which the function will stop running. For example, you could set a timeout of 1 second. If the function is still running after 1 second, it would throw an error and the recursion would stop.
 
-    Which of these methods you use will depend on the specific situation. If you are not sure which method to use, it is best to consult with a professional.
+ Which of these methods you use will depend on the specific situation. If you are not sure which method to use, it is best to consult with a professional.
 
 ## Things I Want to Know More About
 
