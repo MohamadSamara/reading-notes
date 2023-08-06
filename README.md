@@ -13,3 +13,5 @@
 | Data Structures and Algorithms | [Data Structures](DataStructures/DataStructures.md) |
 |             SQL                | [SQL](./SQL/Sql.md) |
 |           Terminal             |  [Terminal](./Terminal/Terminal.md)  |
+|             Engineering Readings                | [Engineering Readings](./EngineeringReadings/EngineeringReadings.md) |
+|                           |                        |
