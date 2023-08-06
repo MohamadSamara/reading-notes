@@ -15,11 +15,7 @@
 ---
 **What’s the one thing I bring to this career (and a potential employer) that nobody else can ?**
 
-    1. Attention to Detail
-
-    2. Adaptability and Resilience
-
-    3. The ability to think logically
+    the unique ability to think logically. This valuable skill allows me to approach complex problems with a methodical and rational mindset
 
 ---
 **What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on a tough piece of code, logic, or feature?**
