@@ -16,3 +16,4 @@
 |Engineering Readings            | [Engineering Readings](./EngineeringReadings/EngineeringReadings.md)          |
 |        Mindset                 |     [Mindset](./Mindset/Mindset.md)|
 |        Read Class 01           |     [Class 01](./ReadClass01/README.md)|
+|        Read Class 02           |     [Class 02](./ReadClass02/README.md)|
