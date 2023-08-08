@@ -34,10 +34,11 @@ Understanding loop types is fundamental in programming. They provide mechanisms 
 
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 To declare an array, define the variable type with square brackets:
-    String[] cars;
+`String[] cars;`
 
 We have now declared a variable that holds an array of strings. To insert values to it, we can use an array literal - place the values in a comma-separated list, inside curly braces:
-    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+
+`String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};`
 
 **Three Built-In Methods for Arrays:**
 
