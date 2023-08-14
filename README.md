@@ -17,4 +17,5 @@
 |        Mindset                 |     [Mindset](./Mindset/Mindset.md)|
 |        Read Class 01           |     [Class 01](./ReadClass01/README.md)|
 |        Read Class 02           |     [Class 02](./ReadClass02/README.md)|
-|        Read Class 03           |     [Class 02](./ReadClass03/README.md)|
+|        Read Class 03           |     [Class 03](./ReadClass03/README.md)|
+|        Read Class 04           |     [Class 04](./ReadClass04/README.md)|
