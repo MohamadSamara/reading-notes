@@ -19,3 +19,4 @@
 |        Read Class 02           |     [Class 02](./ReadClass02/README.md)|
 |        Read Class 03           |     [Class 03](./ReadClass03/README.md)|
 |        Read Class 04           |     [Class 04](./ReadClass04/README.md)|
+|        Read Class 05           |     [Class 05](./ReadClass05/README.md)|
