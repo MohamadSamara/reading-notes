@@ -103,5 +103,23 @@
     ``
 
     hen handle the redirects,reading the responseand building the full response
-    
+```    
     [link of steps](https://www.baeldung.com/java-http-request)
+
+
+
+What HTTP status codes represent a successful response? A redirect? A client error?Links to an external site.
+Successful Response: 200 OK
+
+Redirect:
+
+301 Moved Permanently
+302 Found (or 303 See Other)
+307 Temporary Redirect
+Client Error:
+
+400 Bad Request
+401 Unauthorized
+403 Forbidden
+404 Not Found
+405 Method Not Allowed
