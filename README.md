@@ -23,3 +23,4 @@
 |        Read Class 06           |     [Class 06](./ReadClass06/README.md)|
 |    Read Stacks & Queues        |     [Stacks & Queues](./Stacks&Queues/README.md)|
 |        Read Class 08           |     [Class 08](./ReadClass08/README.md)|
+|        Read Class 09           |     [Class 09](./ReadClass09/README.md)|
