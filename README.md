@@ -31,3 +31,4 @@
 |        Read Class 15           |     [Class 15](./ReadClass15/README.md)|
 |        Read Class 16           |     [Class 16](./ReadClass16/README.md)|
 |        Read Class 17           |     [Class 17](./ReadClass17/README.md)|
+|        Read Class 18           |     [Class 18](./ReadClass18/README.md)|
