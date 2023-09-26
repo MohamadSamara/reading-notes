@@ -6,7 +6,7 @@ Purely functional programming is a programming paradigm that treats all computat
 
 **Can you change the state of a data structure using functional programming?**
 
-Yes, you can change the state of a data structure using functional programming, but you must do so using pure functions. A pure function is a function that always returns the same output for the same input, and does not have any side effects. Side effects are changes to the state of the program outside of the function, such as modifying a global variable or writing to a file.
+In purely functional programming the state of a data structure is not changed directly, but you must do so using pure functions. A pure function is a function that always returns the same output for the same input, and does not have any side effects. Side effects are changes to the state of the program outside of the function, such as modifying a global variable or writing to a file.
 
 To change the state of a data structure using functional programming, you must create a new data structure that is a copy of the old data structure, with the desired changes made. This is known as **immutability**. Immutable data structures are data structures that cannot be modified once they are created.
 
