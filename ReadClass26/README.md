@@ -1,53 +1,25 @@
-# Read Class 19
+# Read Class 26
 
-**Define purely functional programming..**
+**What is an Intent in Android Studios?**
 
-Purely functional programming is a programming paradigm that treats all computation as the evaluation of mathematical functions. Purely functional programs do not have any side effects. This means that they do not modify any global state, such as global variables or files. Purely functional programs also do not perform any I/O operations.
+An Intent in Android Studios is a messaging object that is used to request an action from another app component. It can be used to start an activity, send a broadcast, or bind to a service. Intents are also used to communicate between different apps.
 
-**Can you change the state of a data structure using functional programming?**
+**Fresh examples of when you might use an Intent:**
 
-Yes, you can change the state of a data structure using functional programming, but you must do so using pure functions. A pure function is a function that always returns the same output for the same input, and does not have any side effects. Side effects are changes to the state of the program outside of the function, such as modifying a global variable or writing to a file.
+* You're developing a social media app and you want to allow users to share posts with other apps, such as Twitter or Facebook. You could use an Intent to start the Twitter or Facebook app with the post's text and image.
+* You're developing a fitness app and you want to track the user's location while they're running or cycling. You could use an Intent to bind to a location service and start receiving location updates.
 
-To change the state of a data structure using functional programming, you must create a new data structure that is a copy of the old data structure, with the desired changes made. This is known as **immutability**. Immutable data structures are data structures that cannot be modified once they are created.
+**Describe an Activity in your own words:**
 
-For example, the following Java code shows how to change the state of a list using functional programming:
+An Activity in Android Studios is a single screen in an app. It represents a specific task that the user can perform, such as viewing a list of products, writing an email, or playing a game. Activities are the fundamental building blocks of Android apps.
 
-```java
-import java.util.List;
+To put it in simpler terms, an Activity is a window into your app. It's what the user sees and interacts with when they're using your app.
 
-public class Main {
-    public static void main(String[] args) {
-        List<Integer> myList = List.of(1, 2, 3);
+Every Android app has at least one Activity, but most apps have many different Activities. For example, a shopping app might have an Activity for browsing products, an Activity for viewing a product's details, and an Activity for adding items to the cart.
 
-        // Append 4 to the end of the list
-        List<Integer> newList = myList.stream().collect(Collectors.toList());
-        newList.add(4);
+Activities can be started in a variety of ways, such as:
 
-        // Reverse the list
-        List<Integer> reversedList = myList.stream().reversed().collect(Collectors.toList());
-
-        // Print the new list
-        System.out.println(newList);
-
-        // Print the reversed list
-        System.out.println(reversedList);
-    }
-}
-```
-
-Output:
-
-```java
-[1, 2, 3, 4]
-[3, 2, 1]
-```
-
-In this example, the `stream()` and `collect()` methods are both pure functions. They create new lists based on the input lists, but they do not modify the input lists themselves.
-
-**How do you think purely functional programming will differ from the programs you’ve written so far in this course?**
-
-Purely functional programming is a very different way of thinking about programming than the imperative programming paradigm that is most commonly used. In imperative programming, programs are written as a sequence of steps that modify the state of the program. In purely functional programming, programs are written as a set of functions that transform data.
-
-One of the biggest differences between purely functional programming and imperative programming is the use of immutable data structures. In imperative programming, it is common to modify data structures in place. In purely functional programming, data structures are immutable, which means that they cannot be modified once they are created. This can make it more difficult to write purely functional programs, but it also makes them more predictable and easier to reason about.
-
-Another difference between purely functional programming and imperative programming is the use of higher-order functions. Higher-order functions are functions that take other functions as arguments or return functions as results. Higher-order functions are very powerful and can be used to write very concise and expressive code.
+* When the user clicks on a button or link
+* When the user receives a notification
+* When the user opens the app for the first time
+* When another app sends an Intent to your app
