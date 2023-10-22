@@ -35,3 +35,4 @@
 |        Read Class 19           |     [Class 19](./ReadClass19/README.md)|
 |        Read Class 26           |     [Class 26](./ReadClass26/README.md)|
 |        Read Class 27           |     [Class 27](./ReadClass27/README.md)|
+|        Read Class 28           |     [Class 28](./ReadClass28/README.md)|
