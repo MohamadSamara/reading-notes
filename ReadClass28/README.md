@@ -14,4 +14,4 @@
 
 ## Share a screenshot of a recycler view in an application you use
 
-![RecyclerView](/ReadClass28/messages.jpg)
+![RecyclerView2](./messages.jpg)
