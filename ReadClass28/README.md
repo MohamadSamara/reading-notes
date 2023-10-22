@@ -11,3 +11,7 @@
 ![RecyclerView](https://user-images.githubusercontent.com/97638932/165623874-68adf76b-497a-4d39-b963-742b878b99e9.png)
 
 #### Furthermore, it provides animation support for RecyclerView items whenever they are added or removed, which had been extremely difficult to do with ListView. RecyclerView also begins to enforce the ViewHolder pattern too, which was already a recommended practice but now deeply integrated with this new framework
+
+## Share a screenshot of a recycler view in an application you use
+
+![RecyclerView](/ReadClass28/messages.jpg)
