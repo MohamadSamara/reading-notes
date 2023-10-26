@@ -87,11 +87,11 @@ To use the hash table, simply instantiate a new HashTable object and then call t
 HashTable<String, Integer> hashTable = new HashTable<>();
 
 // Add some key-value pairs
-hashTable.put("Alice", 1234567890);
-hashTable.put("Bob", 9876543210);
+hashTable.put("Mohamad", 1234567890);
+hashTable.put("Samara", 9876543210);
 
 // Get the value associated with a key
-int phoneNumber = hashTable.get("Alice");
+int phoneNumber = hashTable.get("Mohamad");
 
 System.out.println(phoneNumber);
 ```
@@ -128,24 +128,24 @@ Hash tables also have some disadvantages. First, they can be inefficient if ther
 HashTable<String, Integer> hashTable = new HashTable<>();
 
 // Add some key-value pairs
-hashTable.put("Alice", 1234567890);
-hashTable.put("Bob", 9876543210);
+hashTable.put("Mohamad", 1234567890);
+hashTable.put("Samara", 9876543210);
 
 // Get the value associated with a key
-int phoneNumber = hashTable.get("Alice");
+int phoneNumber = hashTable.get("Mohamad");
 
 System.out.println(phoneNumber); // Output: 1234567890
 
 // Check if the hash table contains a key
-boolean containsKey = hashTable.containsKey("Bob");
+boolean containsKey = hashTable.containsKey("Samara");
 
 System.out.println(containsKey); // Output: true
 
 // Remove a key-value pair from the hash table
-hashTable.remove("Bob");
+hashTable.remove("Samara");
 
 // Check if the hash table contains the key that was removed
-containsKey = hashTable.containsKey("Bob");
+containsKey = hashTable.containsKey("Samara");
 
 System.out.println(containsKey); // Output: false
 ```
@@ -154,12 +154,12 @@ System.out.println(containsKey); // Output: false
 
 1. The first line of code creates a new hash table object.
 2. The next two lines of code add some key-value pairs to the hash table.
-3. The next line of code gets the value associated with the key "Alice".
+3. The next line of code gets the value associated with the key "Mohamad".
 4. The next line of code prints the value to the console.
-5. The next line of code checks if the hash table contains the key "Bob".
+5. The next line of code checks if the hash table contains the key "Samara".
 6. The next line of code prints the result to the console.
-7. The next line of code removes the key-value pair associated with the key "Bob".
-8. The next line of code checks if the hash table still contains the key "Bob".
+7. The next line of code removes the key-value pair associated with the key "Samara".
+8. The next line of code checks if the hash table still contains the key "Samara".
 9. The next line of code prints the result to the console.
 
 ## Vocabulary/Definition List
