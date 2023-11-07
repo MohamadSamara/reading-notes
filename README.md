@@ -39,3 +39,4 @@
 |        Read Class 29           |     [Class 29](./ReadClass29/README.md)|
 |        Read Class 30           |     [Class 30](./ReadClass30/README.md)|
 |        Read Class 31           |     [Class 31](./ReadClass31/README.md)|
+|        Read Class 32           |     [Class 32](./ReadClass32/README.md)|
