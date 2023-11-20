@@ -44,3 +44,4 @@
 |        Read Class 34           |     [Class 34](./ReadClass34/README.md)|
 |        Graphs                  |     [Graph](./ReadClass35/README.md)|
 |        Read Class 36           |     [Class 36](./ReadClass36/README.md)|
+|        Read Class 37           |     [Class 37](./ReadClass37/README.md)|
