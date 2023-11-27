@@ -46,3 +46,4 @@
 |        Read Class 36           |     [Class 36](./ReadClass36/README.md)|
 |        Read Class 37           |     [Class 37](./ReadClass37/README.md)|
 |        Read Class 38           |     [Class 38](./ReadClass38/README.md)|
+|        Read Class 39           |     [Class 39](./ReadClass39/README.md)|
